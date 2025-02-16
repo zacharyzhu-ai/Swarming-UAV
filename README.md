@@ -1,6 +1,5 @@
 # Swarming-UAV
 
-———————
 # Sentinel: Swarming UAVs with Computer Vision for Firefighters
 
 ## In Honor of Trevor Brown
@@ -57,8 +56,3 @@ Two minutes before arrival, (my fire) Lt. Turner launches Sentinel's UAV swarm. 
 - Explosion detection and avoidance
 - Situational and risk assessment
 - Ingress and egress recommendation
-
-
-
-
-—————————

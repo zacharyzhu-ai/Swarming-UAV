@@ -1,6 +1,9 @@
 # Swarming-UAV
 
-[Click here to watch the demo video](https://img.shields.io/github/v/release/zacharyzhu-ai/Swarming-UAV)
+**[Click here to watch the demo video](https://github.com/zacharyzhu-ai/Swarming-UAV/releases)**  
+(Download `Boids_1.mp4` under "Assets" to view.)
+
+[![Latest Release](https://img.shields.io/github/v/release/zacharyzhu-ai/Swarming-UAV)](https://github.com/zacharyzhu-ai/Swarming-UAV/releases)
 
 # Sentinel: Swarming UAVs with Computer Vision for Firefighters
 

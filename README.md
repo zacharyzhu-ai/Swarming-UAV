@@ -1,5 +1,7 @@
 # Swarming-UAV
 
+[![Latest Release](https://img.shields.io/github/v/release/zacharyzhu-ai/Swarming-UAV)](https://github.com/zacharyzhu-ai/Swarming-UAV/releases)
+
 # Sentinel: Swarming UAVs with Computer Vision for Firefighters
 
 ## In Honor of Trevor Brown

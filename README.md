@@ -21,7 +21,7 @@ No anymore!
 
 ## Real-World Application
 
-Two minutes before arrival, (my fire) Lt. Turner launches Sentinel's UAV swarm. Within one minute, the system:
+Two minutes before arrival, (fire) Lt. Turner launches Sentinel's UAV swarm. Within one minute, the system:
 - Detects intense rooftop flames
 - Identifies explosive temperatures near ground floor stovetop
 - Enables strategic positioning of:
